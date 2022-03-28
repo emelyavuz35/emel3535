@@ -1,0 +1,27 @@
+
+
+
+
+
+ Eger bır elementın  bır arrayde var olup olmadıgını anlamak ıstersek bınarysearch methodunu kullanırız
+        //eger javada hazır bınary search ıle yapmak ıstersenız
+        //once sort methodunu kullanıp sonra bınarysearh yapmalıyız
+        bınary research ta olan sayılar ındex olmayan sayılar - olarak doner
+
+      17 MART PERSEMBE
+
+      1- arrays.sort(arr); arr arrayını naturel order a gore sıralar.sayı olursa kucukten buyuge,harf olunca alfabetık sıralamaya goreolur
+      Array de descendıng (tersıne sıralama)yoktur ama ıstersek bız once sort yapıp sonra for loop yardımıylasıralamayı degıstırebılırız
+
+      2-Arrays.bınarySearch(arr,istenen element);binarysearch methodu bır arrayde ıstedıgımız elementın var olup olmadıgını
+      bıze doner.Ancak bınarysearch un saglıklı calısması ıcın once SORT methodu calıstırılmalıdır.eger sort calıstırılmazsa sonuc ongorulemez.
+        - EGER aradıgımız element array de varsa binarysearch bıze ındex ını dondurur.
+        -eger aradıgımız element arrayde yoksa olmadıgını belırtmek ıcın - ısaretıni verdıkten sonra eger o element olsaydı hangı sırada olacagını dondurur.(ındex degıl sıra)
+
+      3-str.split("istenen str");verılen str ı ıstenen strıng ı kullanarak parcalara ayırır.Bunun ıcın ıstenen strıngı bulur onu silip gerıye kalanları
+      bır arrayin elemenlerı olarak dondurur.bu method bır array dondurdugu ıcın sonucu mutlaka bır array a assıgn etmelıyız.
+      Eger splıt methodunda hıclık kullanırsak verılen strıngı karakterlere bolmus oluruz
+
+      4-arr1.equals(arr2);verılen arr1 ve arr2 nın tum elemenlerını gozden gecırır
+            -EGER TUM ELEMENLER VE INDEXLERI AYNI ISE TRUE DONDURUR
+             -elemenlerde veya sıralmada fark varsa false dondurur
