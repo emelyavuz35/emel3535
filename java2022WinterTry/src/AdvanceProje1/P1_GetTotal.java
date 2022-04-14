@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class P1_GetTotal {
     public static void main(String[] args) {
-
       /*
      3 tane pozitif String verildiğinde
      sayısal olmayan tüm karakterleri kaldırın.
@@ -34,6 +33,8 @@ public class P1_GetTotal {
 
         int toplam=(sayı1+sayı2+sayı3);
         System.out.println( toplam);
+
+
 
 
     }

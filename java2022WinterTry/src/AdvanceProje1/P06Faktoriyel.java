@@ -12,15 +12,18 @@ public class P06Faktoriyel {
 
        */
 
-        Scanner sc=new Scanner(System.in);
-        String sayı=sc.nextLine();
+        Scanner dp=new Scanner(System.in);
+        System.out.println("lutfen bır sayı gırınız");
+        String strNum = dp.nextLine();
 
+        int number = Integer.parseInt(strNum);
 
+        int faktoriyel=1;
 
-
-
-
-       // for (int i = 0; i <=sayı ; i++) {
+        for (int i = 1; i <=number ; i++) {
+            faktoriyel*=i;
+        }
+        System.out.println(faktoriyel);
 
 
         }

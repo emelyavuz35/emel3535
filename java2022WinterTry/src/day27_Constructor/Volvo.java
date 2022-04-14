@@ -9,6 +9,9 @@ public class Volvo {
     String yakit;
     boolean otomatikPilot=otomatikPilotSorgusu();
     int maxHiz=maxHizAta();
+
+
+
     public Volvo(String mdl, boolean elk, int yl, String ykt) {
         model=mdl;
         elektrikliMi=elk;
@@ -30,13 +33,15 @@ public class Volvo {
         boolean sonuc=false;
         if(elektrikliMi){
             sonuc=true;
+        }else{
+            sonuc=false;
         }
         return sonuc;
     }
     public String toString() {
         String arabaOzellikleri = "Model : " + model +
-                " Yakit : " + yakit +
-                " Max Hiz : " + maxHiz;
+                                 " Yakit : " + yakit +
+                                 " Max Hiz : " + maxHiz;
         return arabaOzellikleri;
     }
 }

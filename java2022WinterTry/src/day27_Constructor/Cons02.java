@@ -5,7 +5,7 @@ public class Cons02 {
 
     }
 
-    // Cons01 obj1= new Cons01(); // default constructor devrede
+     Cons01 obj1= new Cons01(); // default constructor devrede
         /* Cons01 class'inda hic constructor olusturmazsak,
            Java default constructor'i kullandigindan
            obj1'i uretebiliriz

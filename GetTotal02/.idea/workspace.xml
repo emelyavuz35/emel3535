@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e3954655-08f2-4b70-b83e-6f4e15d705a5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../GetTotal/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GetTotal/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GetTotal/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GetTotal/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GetTotal/GetTotal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GetTotal01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GetTotal01/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GetTotal01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GetTotal01/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GetTotal01/GetTotal01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../haluk hoca/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../haluk hoca/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../haluk hoca/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../haluk hoca/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java2022WinterTry/src/AdvanceProje1/P07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java2022WinterTry/src/AdvanceProje1/P08EvenNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java2022WinterTry/src/JavaAdvanced/AİRWAYS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java2022WinterTry/src/day00_HomeworkAndQuestıon/AsalCarpan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java2022WinterTry/src/day00_HomeworkAndQuestıon/ForLoop2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java2022WinterTry/src/day00_HomeworkAndQuestıon/SaatMilKgCevırme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java2022WinterTry/src/day00_HomeworkAndQuestıon/forLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java2022WinterTry/src/day30/C01_StaticBlocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java2022WinterTry/src/day30/C02_StaticBlocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java2022WinterTry/src/day30/C03_PassByValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java2022WinterTry/src/day30/C04_PassByValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java2022WinterTry/src/day30/C05_PassVyValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java2022WinterTry/src/day30/C06_PassByValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java2022WinterTry/src/day30/C07_PassByCValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java2022WinterTry/src/day31_immutablaaClasses/C01_Equals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java2022WinterTry/src/day31_immutablaaClasses/C02_Equals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java2022WinterTry/src/day32_dateTime/C01_LocalDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java2022WinterTry/src/day32_dateTime/C02_LocalTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java2022WinterTry/src/day32_dateTime/C03_LocalTımeDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java2022WinterTry/src/day32_dateTime/C04_DateTimeFormatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java2022WinterTry/src/day32_dateTime/C06_Varargs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java2022WinterTry/src/day32_dateTime/C5_IkıTarıhArasınıBulma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2022WinterTr/C01_IIkClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2022WinterTry/src/AdvanceProje1/P06Faktoriyel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java2022WinterTry/src/AdvanceProje1/P06Faktoriyel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2022WinterTry/src/AdvanceProje1/P1_GetTotal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java2022WinterTry/src/AdvanceProje1/P1_GetTotal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2022WinterTry/src/AdvanceProje1/P4Count.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java2022WinterTry/src/AdvanceProje1/P4Count.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2022WinterTry/src/C02/C01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java2022WinterTry/src/C02/C01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2022WinterTry/src/day17_forLoop/C03_ForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java2022WinterTry/src/day17_forLoop/C03_ForLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2022WinterTry/src/day17_forLoop/C04_ForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java2022WinterTry/src/day17_forLoop/C04_ForLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2022WinterTry/src/day17_forLoop/C05_ForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java2022WinterTry/src/day17_forLoop/C05_ForLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2022WinterTry/src/day17_forLoop/C06_ForLOOP.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java2022WinterTry/src/day17_forLoop/C06_ForLOOP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2022WinterTry/src/day17_forLoop/C07_ForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java2022WinterTry/src/day17_forLoop/C07_ForLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/java2022WinterTry/AdvanceProje1/P1_GetTotal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/java2022WinterTry/AdvanceProje1/P1_GetTotal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/java2022WinterTry/AdvanceProje1/P4Count.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/java2022WinterTry/AdvanceProje1/P4Count.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/java2022WinterTry/day17_forLoop/C03_ForLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/java2022WinterTry/day17_forLoop/C03_ForLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/java2022WinterTry/day17_forLoop/C04_ForLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/java2022WinterTry/day17_forLoop/C04_ForLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/java2022WinterTry/day17_forLoop/C05_ForLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/java2022WinterTry/day17_forLoop/C05_ForLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/java2022WinterTry/day17_forLoop/C06_ForLOOP.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/java2022WinterTry/day17_forLoop/C06_ForLOOP.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/java2022WinterTry/day17_forLoop/C07_ForLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/java2022WinterTry/day17_forLoop/C07_ForLoop.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="27BiOdjvTcH1gCB52Fg3BmwHmSC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3954655-08f2-4b70-b83e-6f4e15d705a5" name="Changes" comment="" />
+      <created>1648799849032</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648799849032</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

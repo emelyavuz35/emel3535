@@ -19,7 +19,7 @@ public class P4Count {
         int count=0;
 
 
-        for (int i = 0; i < kelime.length(); i++) {
+        for (int i = 0; i <= kelime.length(); i++) {
             if (kelime.charAt(i)=='b'){
                 count++;
 

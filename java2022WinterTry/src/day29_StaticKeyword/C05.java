@@ -1,6 +1,6 @@
 package day29_StaticKeyword;
 
-public class C05 {
+public class  C05 {
 
     public static void eksiltme(){
 

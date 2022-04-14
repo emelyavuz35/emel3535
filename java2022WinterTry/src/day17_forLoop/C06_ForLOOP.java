@@ -5,26 +5,27 @@ public class C06_ForLOOP {
 
         //verılen ıkı harf ve aralarındakı harflerı yazdıran bır kod yazınız
 
+char ilkHarf='m';
+char sonHarf='t';
 
-        char ilkharf='m';
-        char sonharf='t';
-
-        for (char i=ilkharf; i<=sonharf; i++){
+        for (int i = ilkHarf; i <sonHarf ; i++) {
             System.out.print(i+" ");
+
         }
-
-
 
         double baslangıc=10;
         double bitis=20;
         double artıs=0.2;
-        //baslangıc ve bıtıs sayıları arasında artıs mıktarı ıle olusacak tum sayıları yazdırın
+        //baslangıc ve bıtıs arasında artıs mıktarı ıle olusacak tum sayıları yazdır
 
-        for (double i = baslangıc; i <=bitis ; i+=artıs) {
-            System.out.println(i +" ");
+        for (double i = baslangıc; i <bitis ; i+=artıs) {
+            System.out.println(i+" ");
+
+        }
+
 
         }
     }
 
 
-}
+

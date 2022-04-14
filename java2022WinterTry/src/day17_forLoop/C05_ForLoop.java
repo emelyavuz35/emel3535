@@ -10,12 +10,12 @@ public class C05_ForLoop {
 
 
         int sayı=55;
+        for (int i = 1; i <55 ; i++) {
 
-        for (int i =1; i<=sayı; i++){
-
-            if (i%3==0){
-                System.out.print(i + " ");
+            if (sayı%3==0){
+                System.out.print(i+" ");
             }
+
         }
     }
 
